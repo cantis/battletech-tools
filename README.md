@@ -1,3 +1,5 @@
+# NOTE: This is a FORK of the original where the owner Jeff has passed away. This is NOT my work but an archive 'just.in.case' Evan
+
 # BattleTech Tools
 
 ## Purpose
